@@ -8,6 +8,12 @@ package model;
  *
  * @author tjnk1
  */
-public class Anh {
+public class NhanVien {
+    String MaNhanVien;
+    String TenNhanVien;
+    String ChucVu;
+    String DiaChi;
+    String Email;
+    String SDT;
     
 }
